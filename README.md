@@ -6,7 +6,8 @@
 
 
 
-### 🧰 Languages and Tools
+
+# 🧰 Languages and tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -23,9 +24,9 @@
 
 <br />
 
-#
 
-# 📊 GitHub Stats:
+
+# 📊 GitHub Stats
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sreekarthik07&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Zafar's Github Stats"><br><br>
   <img align="center" src="https://streak-stats.demolab.com/?user=sreekarthik07&theme=highcontrast&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sreekarthik's Github Stats"><br><br>
@@ -34,7 +35,7 @@
 
 </div> 
 
-## 🏆 Top Contributed Repo
+# 🏆 Top Contributed Repo
 <div align="center">
   <img align = "center" src="https://github-contributor-stats.vercel.app/api?username=sreekarthik07&limit=5&theme=dark&combine_all_yearly_contributions=true">
 </div>
