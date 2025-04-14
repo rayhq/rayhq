@@ -11,5 +11,6 @@ I’m a BTech student specializing in Cybersecurity with a strong focus on ethic
 
 <br/>
 
-![me](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVjOWN2ZXZuMTRsZTh4Zm01aXcyZHJ4eXhncmdyYWU0bTFlaW13MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WiM5K1e9MtEic/giphy.gif)
+![Mr Robot](src/Mr%20Robot%20Smile%20GIF.gif)
+
 
