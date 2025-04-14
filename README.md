@@ -1,6 +1,6 @@
 ### ` A bug is never just a mistake. It represents something bigger `
 
-I’m a BTech student specializing in Cybersecurity with a strong focus on ethical hacking, penetration testing, OSINT, and building secure applications. My passion lies in understanding vulnerabilities, hardening systems, and developing tools that enhance digital security. I leverage my OSINT skills to gather critical intelligence from open sources, helping in both offensive and defensive cybersecurity operations.
+I’m a Btech student specializing in Cybersecurity with a strong focus on ethical hacking, penetration testing, OSINT, and building secure applications. My passion lies in understanding vulnerabilities, hardening systems, and developing tools that enhance digital security. I leverage my OSINT skills to gather critical intelligence from open sources, helping in both offensive and defensive cybersecurity operations.
 
 
 
@@ -11,6 +11,6 @@ I’m a BTech student specializing in Cybersecurity with a strong focus on ethic
 
 <br/>
 
-![Mr Robot](src/Mr%20Robot%20Smile%20GIF.gif)
+![Mr Robot](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeng4NWYyejcyNTZ0bHJjc2Jia3RmbGtzbzBjaWNocHZ5eXg0eHRnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WiM5K1e9MtEic/giphy.gif)
 
 
