@@ -1,4 +1,8 @@
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=500&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;Networking+%26+Linux;Information+Gathering+%26+Analysis"/>
+</div>
+
+<div align="center">
   <h3><code>You hack people. I hack time.</code></h3>
 </div>
 
