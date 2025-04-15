@@ -11,6 +11,7 @@ I’m a Btech student specializing in Cybersecurity with a strong focus on ethic
 
 <br/>
 
-[![Mr. Robot GIF](src/mr-robot.gif)]([https://www.linkedin.com/in/sreekarthikk/](https://www.instagram.com/sreekarthikkkk/))
+[![Mr. Robot GIF](src/mr-robot.gif)](https://www.instagram.com/sreekarthikkkk/)
+
 
 
