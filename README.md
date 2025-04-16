@@ -26,6 +26,6 @@
 
 <a href="https://www.linkedin.com/in/sreekarthik-p-l-12034b282/" target="_blank" ><img alt="LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/></a>
 <a href="https://open.spotify.com/user/31k7ke2udwqiugepens62btdiyku?si=097476eafe4c4c0c" target="_blank" ><img width="30px" align="left" alt="Spotify" width="22px" src="https://user-images.githubusercontent.com/58104187/198833667-f002e2ff-56d4-4575-a60d-e3cd07174e82.svg"/></a>
-<a href="https://open.spotify.com/user/31k7ke2udwqiugepens62btdiyku?si=097476eafe4c4c0c" target="_blank" ><img width="30px" align="left" alt="THM" width="22px" src="src/thm-logo.jpg"/></a>
+<a href="https://tryhackme.com/p/sreekarthikk" target="_blank" ><img width="30px" align="left" alt="THM" width="22px" src="src/thm-logo.jpg"/></a>
 
 
