@@ -3,7 +3,8 @@
 </div>
 
 <div align="center">
-  <h3><code>You hack people. I hack time.</code></h3>
+  <h3><code>I hack people. That's my thing.
+</code></h3>
 </div>
 
 <p align="center">
@@ -15,10 +16,10 @@
 
 
 <div align="center">
-  <a href="https://www.instagram.com/sreekarthikkkk/" target="_blank">
-    <img src="src/mr-robot.gif" alt="Mr. Robot GIF" width="400" />
+ 
+   <img src="src/mr-robot.gif" alt="Mr. Robot GIF" width="400" />
   </a>
-  <p><i><code>A bug is never just a mistake. It represents something bigger.</code></i></p>
+ 
 </div>
 <br>
 
